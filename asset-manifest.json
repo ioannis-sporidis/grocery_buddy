@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/grocery_buddy/static/css/main.7d0247d7.chunk.css",
-    "main.js": "/grocery_buddy/static/js/main.c0bb8654.chunk.js",
-    "main.js.map": "/grocery_buddy/static/js/main.c0bb8654.chunk.js.map",
-    "runtime-main.js": "/grocery_buddy/static/js/runtime-main.ec8aec48.js",
-    "runtime-main.js.map": "/grocery_buddy/static/js/runtime-main.ec8aec48.js.map",
-    "static/js/2.20bdbab1.chunk.js": "/grocery_buddy/static/js/2.20bdbab1.chunk.js",
-    "static/js/2.20bdbab1.chunk.js.map": "/grocery_buddy/static/js/2.20bdbab1.chunk.js.map",
-    "index.html": "/grocery_buddy/index.html",
-    "static/css/main.7d0247d7.chunk.css.map": "/grocery_buddy/static/css/main.7d0247d7.chunk.css.map",
-    "static/js/2.20bdbab1.chunk.js.LICENSE.txt": "/grocery_buddy/static/js/2.20bdbab1.chunk.js.LICENSE.txt"
+    "main.css": "/ra-grocery-buddy/static/css/main.7d0247d7.chunk.css",
+    "main.js": "/ra-grocery-buddy/static/js/main.aab014b3.chunk.js",
+    "main.js.map": "/ra-grocery-buddy/static/js/main.aab014b3.chunk.js.map",
+    "runtime-main.js": "/ra-grocery-buddy/static/js/runtime-main.cad41986.js",
+    "runtime-main.js.map": "/ra-grocery-buddy/static/js/runtime-main.cad41986.js.map",
+    "static/js/2.20bdbab1.chunk.js": "/ra-grocery-buddy/static/js/2.20bdbab1.chunk.js",
+    "static/js/2.20bdbab1.chunk.js.map": "/ra-grocery-buddy/static/js/2.20bdbab1.chunk.js.map",
+    "index.html": "/ra-grocery-buddy/index.html",
+    "static/css/main.7d0247d7.chunk.css.map": "/ra-grocery-buddy/static/css/main.7d0247d7.chunk.css.map",
+    "static/js/2.20bdbab1.chunk.js.LICENSE.txt": "/ra-grocery-buddy/static/js/2.20bdbab1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec8aec48.js",
+    "static/js/runtime-main.cad41986.js",
     "static/js/2.20bdbab1.chunk.js",
     "static/css/main.7d0247d7.chunk.css",
-    "static/js/main.c0bb8654.chunk.js"
+    "static/js/main.aab014b3.chunk.js"
   ]
 }

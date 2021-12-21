@@ -1,7 +1,13 @@
 # Grocery Buddy
 
-https://ioannis-sporidis.github.io/grocery_buddy/
+Click [here](https://ioannis-sporidis.github.io/ra-hacker-news/) to check out the app
 
-## Next Steps:
+## Dependencies
 
-- Use Material UI.
+- [React](https://reactjs.org/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [NPM gh-pages](https://www.npmjs.com/package/gh-pages)
+
+## Next Steps
+- Use Material-UI.
+- Implement local storage.

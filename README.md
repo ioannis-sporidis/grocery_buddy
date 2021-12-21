@@ -1,6 +1,6 @@
 # Grocery Buddy
 
-Click [here](https://ioannis-sporidis.github.io/ra-hacker-news/) to check out the app
+Click [here](https://ioannis-sporidis.github.io/ra-grocery-buddy/) to check out the app
 
 ## Dependencies
 

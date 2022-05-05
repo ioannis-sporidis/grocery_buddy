@@ -1,6 +1,6 @@
 # Grocery Buddy
 
-Check out the app [here](https://ioannis-sporidis.github.io/ra-grocery-buddy/)
+Check out the app [here](https://the-fetaverse.github.io/ra-grocery-buddy/)
 
 ## Dependencies
 
